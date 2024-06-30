@@ -1,3 +1,5 @@
+console.log("Excalidraw New Tab extension loaded");
+
 document.addEventListener("DOMContentLoaded", function () {
   // Load saved Excalidraw data if it exists
   chrome.storage.local.get(["excalidrawData"], function (result) {
