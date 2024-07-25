@@ -1,6 +1,8 @@
 
 # Excalidraw to extension
 
+Chrome webstore: https://chromewebstore.google.com/detail/excalidraw-in-new-tab/fpcbhgoiombfijahddnneadpggeoeodp
+
 I got bored looking at the usual new tab screen and wanted it to be a space where I can actually see things I want to see like my pending tasks.
 So I generated this extension with claude sonnet. I didn't write a single piece of code for this. Works pretty well. Amazing!
 
